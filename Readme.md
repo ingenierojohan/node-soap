@@ -1,4 +1,4 @@
-# Adaptacion para trabajr con SAIMYR
+# Adaptacion para trabajar con SAIMYR
 ``` javascript
   var args = {
   	':fchEntrada':"string",
