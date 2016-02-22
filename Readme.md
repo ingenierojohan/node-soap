@@ -1,3 +1,16 @@
+# Adaptacion para trabajr con SAIMYR
+  var args = {
+  	':fchEntrada':"01/01/2016 8:00:00",
+  	':fchSalida':"01/02/2016 11:00:00",
+   	':identificacion':'15422483',
+  	':cpto':20,
+  	':nroHoras':1,
+  	':usuarioAutoriza':"Mabel Ocampo",
+  	':fchAutoriza':"07/02/2016 08:01:34"
+  };
+
+#========================================================================
+
 # Soap [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url] [![Gitter chat][gitter-image]][gitter-url]
 
 > A SOAP client and server for node.js.
